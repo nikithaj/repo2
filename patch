@@ -1,0 +1,9 @@
+diff --git "a/C:\\Users\\test\\AppData\\Local\\Temp\\TortoiseGit\\fil21C5.tmp\\file4-c944a83-left.txt" "b/D:\\local_repo\\file4.txt"
+index e69de29..a78ab2a 100644
+--- "a/C:\\Users\\test\\AppData\\Local\\Temp\\TortoiseGit\\fil21C5.tmp\\file4-c944a83-left.txt"
++++ "b/D:\\local_repo\\file4.txt"
+@@ -0,0 +1,3 @@
++first commit for file4
++
++new line
+\ No newline at end of file
